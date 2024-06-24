@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tiagopaquete/Library/Mobile Documents/com~apple~CloudDocs/Documents/Study/Prog Language/C#/Chalenges/SimpleCalculator/SimpleCalculator.csproj": {}
+    "/Users/tiagopaquete/Documents/GitHubRepo /CSharp-Challenges/Chalenges/SimpleCalculator/SimpleCalculator.csproj": {}
   },
   "projects": {
-    "/Users/tiagopaquete/Library/Mobile Documents/com~apple~CloudDocs/Documents/Study/Prog Language/C#/Chalenges/SimpleCalculator/SimpleCalculator.csproj": {
+    "/Users/tiagopaquete/Documents/GitHubRepo /CSharp-Challenges/Chalenges/SimpleCalculator/SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tiagopaquete/Library/Mobile Documents/com~apple~CloudDocs/Documents/Study/Prog Language/C#/Chalenges/SimpleCalculator/SimpleCalculator.csproj",
+        "projectUniqueName": "/Users/tiagopaquete/Documents/GitHubRepo /CSharp-Challenges/Chalenges/SimpleCalculator/SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "/Users/tiagopaquete/Library/Mobile Documents/com~apple~CloudDocs/Documents/Study/Prog Language/C#/Chalenges/SimpleCalculator/SimpleCalculator.csproj",
+        "projectPath": "/Users/tiagopaquete/Documents/GitHubRepo /CSharp-Challenges/Chalenges/SimpleCalculator/SimpleCalculator.csproj",
         "packagesPath": "/Users/tiagopaquete/.nuget/packages/",
-        "outputPath": "/Users/tiagopaquete/Library/Mobile Documents/com~apple~CloudDocs/Documents/Study/Prog Language/C#/Chalenges/SimpleCalculator/obj/",
+        "outputPath": "/Users/tiagopaquete/Documents/GitHubRepo /CSharp-Challenges/Chalenges/SimpleCalculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tiagopaquete/.nuget/NuGet/NuGet.Config"

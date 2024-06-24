@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SimpleCalculator
-build_property.ProjectDir = /Users/tiagopaquete/Documents/GitHub Repo /Python/CSharp-Challenges/Chalenges/SimpleCalculator/
+build_property.ProjectDir = /Users/tiagopaquete/Documents/GitHubRepo /CSharp-Challenges/Chalenges/SimpleCalculator/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
